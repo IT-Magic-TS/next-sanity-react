@@ -36,3 +36,7 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
+
+# sanityyoutube/node_modules
+sanityyoutube/node_modules
+
